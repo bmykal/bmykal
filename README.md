@@ -1,0 +1,3 @@
+-  Yo, I’m Mykal 
+-  I’m interested in Cybersecurity
+-  I’m currently learning Python
